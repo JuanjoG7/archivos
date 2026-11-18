@@ -4,11 +4,11 @@ Instaladores del perfil Torrentio con Titan Bingie Mod, Jacktook y TMDb Helper.
 
 | Dispositivo | Instalador | Kodi |
 | --- | --- | --- |
-| Windows | [ZIP 1.3.1](windows/plugin.video.perfil.torrentio-1.3.1.zip) | Kodi 21 Omega. La intro integrada de Bingie Mod y el menú se comprobaron en Windows 21.2. |
-| CoreELEC | [ZIP 1.3.1](coreelec/plugin.video.perfil.torrentio-1.3.1.zip) | Preparado para el TV box con Kodi 21.3. La nueva versión queda por probar en el dispositivo. |
-| Android y Android TV | [ZIP 1.3.1](android/plugin.video.perfil.torrentio-1.3.1.zip) | Preparado para Kodi 21.3. Queda por probar en el dispositivo. |
+| Windows | [ZIP 1.3.2](windows/plugin.video.perfil.torrentio-1.3.2.zip) | Kodi 21 Omega. La intro integrada de Bingie Mod y el menú se comprobaron en Windows 21.2. |
+| CoreELEC | [ZIP 1.3.2](coreelec/plugin.video.perfil.torrentio-1.3.2.zip) | Preparado para el TV box con Kodi 21.3. La nueva versión queda por probar en el dispositivo. |
+| Android y Android TV | [ZIP 1.3.2](android/plugin.video.perfil.torrentio-1.3.2.zip) | Preparado para Kodi 21.3. Queda por probar en el dispositivo. |
 
-La versión 1.3.1 añade un brillo suave al elemento seleccionado en el menú y en las carátulas. La instalación en LibreELEC queda por comprobar.
+La versión 1.3.2 añade desplazamiento vertical de las filas de Inicio. Prioriza el castellano de España en películas y el japonés con subtítulos en español en anime cuando el vídeo ofrece esas pistas. Conserva el brillo suave de la selección. La instalación en LibreELEC queda por comprobar.
 
 1. Abre el archivo de tu dispositivo en GitHub y usa **Download**.
 2. Crea o activa el perfil **Torrentio** en Kodi.
